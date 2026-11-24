@@ -3,6 +3,8 @@
 /xianyu-server
 /xianyu-init-admin
 /init-admin
+/cache/
+/dist/
 *.exe
 *.test
 !/Dockerfile.test
